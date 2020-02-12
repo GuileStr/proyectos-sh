@@ -5,4 +5,5 @@ do
 	export FOLDERS="$FOLDERS/folder$i";
 	chmod 776 $FOLDERS
 done
+echo "OUTPUT"
 echo $FOLDERS
